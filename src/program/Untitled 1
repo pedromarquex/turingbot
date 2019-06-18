@@ -1,0 +1,3 @@
+Data para apresentação do ChatBot valendo uma nova avaliação. 
+O chatbot deve identificar um usuário, deve permitir a edição de playlists (criando, alterando, excluindo e adicionando musicas à playlist. 
+As musicas e os usuários já deve estar pre-cadastrados em um banco. Pode-se usar uma estrutura similar a da prova 2.
